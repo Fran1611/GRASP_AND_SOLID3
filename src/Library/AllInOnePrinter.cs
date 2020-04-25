@@ -3,6 +3,9 @@
 // Copyright (c) Programación II. Derechos reservados.
 // </copyright>
 //---------------------------------------------------------------------------------
+/*
+    ESTA CLASE QUEDA SIN EFECTO, YA QUE NO CUMPLE CON POLIMORFISMO AL PREGUNTAR POR EL DESTINO DE IMPRESION.
+
 using System;
 using System.IO;
 
@@ -28,4 +31,4 @@ namespace Full_GRASP_And_SOLID.Library
             }
         }
     }
-}
+}*/
